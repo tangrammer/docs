@@ -1,7 +1,4 @@
 #+TITLE: github.com
 
-** no me lo puedo creer
-
-** ni yo tampoco
-
-** guau
+** tested synchronisation from local pushing
+**
