@@ -2,4 +2,4 @@
 
 ** first
 ** NOW second
-** NOW [[github.com][git]] [[ups]]
+** NOW [[github.com][git]] [[jor]]
