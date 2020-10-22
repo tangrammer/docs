@@ -2,5 +2,5 @@
 
 ** first
 ** NOW second
-** NOW [[github.com][git]] [[jor]]
+** NOW [[github.com][git]] [[Linked references]]
 ** and now what ... :/
