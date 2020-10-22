@@ -1,4 +1,11 @@
 #+TITLE: github.com
 
 ** tested synchronisation from local pushing
+
+    #+BEGIN_SRC clojure
+    (str "so now showing code ")
+    
+    #+END_SRC
+
+
 **
