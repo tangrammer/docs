@@ -1,5 +1,5 @@
 #+TITLE: Oct 22nd, 2020
 
 ** first
-** LATER second
-** NOW [[github.com][git]]
+** NOW second
+** NOW [[github.com][git]] [[ups]]
